@@ -1,63 +1,138 @@
-<a href="https://aiforui.dev/">
-<img width="360" height="202" alt="opengraph-image 2" src="https://github.com/user-attachments/assets/84fca9a6-0b2b-4927-8f48-f3ce194a5c47" />
-</a>
+<div align="center">
 
-# Skills For Designers and Engineers
+# 🎨 Front-End Skills
 
-[![skills.sh](https://skills.sh/b/emilkowalski/skills)](https://skills.sh/emilkowalski/skills)
+### **Design better interfaces. Build smoother experiences. Learn by doing.**
 
-For designers and engineers to help them build better user interfaces.
+A curated collection of **frontend design**, **UI/UX**, **animation**, and **AI-assisted development** resources.
 
-Knowing whether you made a right choice when it comes to animations, or design in general, is hard. These skills aim to help you get to those right decisions faster.
+[![GitHub](https://img.shields.io/badge/GitHub-Jeckson77-181717?style=for-the-badge&logo=github)](https://github.com/Jeckson77)
+[![Frontend](https://img.shields.io/badge/Focus-Frontend%20Development-00C7FF?style=for-the-badge)](https://github.com/Jeckson77/Front-End-skills)
+[![Original skills](https://img.shields.io/badge/Original-emilkowalski%2Fskills-7C3AED?style=for-the-badge)](https://github.com/emilkowalski/skills)
 
-They are based on my years of experience working at companies like Vercel and Linear.
+</div>
 
-All the skills here are a side-effect of domain-expertise. AI doesn’t replace such expertise, it amplifies what you can get out of it and makes you way better relative to others.
+---
 
-So learn to code, design, or develop expertise in any other field. It’s extremely valuable.
+## 🧠 About This Repository
 
-You can stay up to date with my skills here:
+**Front-End Skills** is a learning and reference space for improving how websites and applications **look, feel, and behave**.
 
-[Sign Up To The Newsletter](https://aiforui.dev/newsletter)
+It highlights practical guidance on **interface design**, **motion**, **mobile usability**, and **frontend performance**, including resources from [Emil Kowalski's skills collection](https://github.com/emilkowalski/skills).
 
-## Install
+**Maintained on GitHub by [Jeckson77](https://github.com/Jeckson77).** The original design guidance and skill definitions linked below are credited to their respective author. This README does not claim that Jeckson77 created those original skills.
+
+## ✨ Topics Covered
+
+| Area | What you'll learn |
+| --- | --- |
+| 🎨 **UI/UX Design** | Clear layouts, visual hierarchy, and interface polish |
+| 🎬 **Animation** | Easing, timing, transitions, and choreography |
+| ⚡ **Performance** | Smooth interactions and avoiding animation jank |
+| 📱 **Mobile Interfaces** | Touch-friendly, responsive, app-like experiences |
+| 🧪 **UI Testing** | Stress-testing components with unusual and edge-case data |
+| 🤖 **AI-Assisted Workflows** | Giving coding assistants better design guidance |
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vscode,git,github" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, VS Code, Git and GitHub" />
+</p>
+
+> These are **relevant frontend technologies**, not a claim that every tool is implemented or mastered in this repository.
+
+## 📚 Skill Reference
+
+The following skills are from the **original [emilkowalski/skills](https://github.com/emilkowalski/skills) project**.
+
+### 🎬 **Motion & Animation**
+
+| Skill | Purpose |
+| --- | --- |
+| [emil-design-eng](https://aiforui.dev/skills/emil-design-eng) | Core interface design and animation guidance |
+| [animate](https://aiforui.dev/skills/animate) | Build an animation with appropriate timing and easing |
+| [animate-expo](https://aiforui.dev/skills/animate-expo) | Motion and gestures for React Native / Expo |
+| [review-animations](https://aiforui.dev/skills/review-animations) | Evaluate existing animations |
+| [improve-animations](https://aiforui.dev/skills/improve-animations) | Identify and prioritize animation improvements |
+| [find-animation-opportunities](https://aiforui.dev/skills/find-animation-opportunities) | Find meaningful places to add motion |
+| [remove-animations](https://aiforui.dev/skills/remove-animations) | Remove unnecessary motion |
+| [choreograph](https://aiforui.dev/skills/choreograph) | Coordinate multi-element transitions |
+| [animation-performance](https://aiforui.dev/skills/animation-performance) | Improve animation smoothness |
+| [animation-vocabulary](https://aiforui.dev/skills/animation-vocabulary) | Describe motion more precisely |
+
+### 📱 **Interface Quality & Mobile UX**
+
+| Skill | Purpose |
+| --- | --- |
+| [apple-design](https://aiforui.dev/skills/apple-design) | Study Apple's interface and motion principles |
+| [gestures](https://aiforui.dev/skills/gestures) | Design touch and drag interactions |
+| [mobile-native](https://aiforui.dev/skills/mobile-native) | Make mobile web interfaces feel native |
+| [break-ui](https://aiforui.dev/skills/break-ui) | Test UI with difficult or unexpected data |
+| [pick-ui-library](https://aiforui.dev/skills/pick-ui-library) | Select suitable component libraries |
+| [prototype](https://aiforui.dev/skills/prototype) | Explore multiple UI approaches |
+
+### 🤖 **AI-Assisted Design Workflows**
+
+| Skill | Purpose |
+| --- | --- |
+| [learn-taste](https://aiforui.dev/skills/learn-taste) | Capture design feedback as reusable guidance |
+| [ask-emil](https://aiforui.dev/skills/ask-emil) | Identify relevant skills for a task |
+| [ask-sonner](https://aiforui.dev/skills/ask-sonner) | Guidance for Sonner toast notifications |
+
+## 🚀 Getting Started
+
+### **1. Explore the original skills**
+
+Visit the [skills documentation](https://aiforui.dev/skills) to read examples and guidance.
+
+### **2. Install the original skill collection (optional)**
+
+If you use a compatible AI coding assistant and have **Node.js / npm** installed, the original project documents:
 
 ```bash
 npx skills@latest add emilkowalski/skills
 ```
 
-Every skill page at [aiforui.dev/skills](https://aiforui.dev/skills) shows when to use the skill, an example of the result, and prompts to try.
+**Note:** This command installs from **emilkowalski/skills**, not from **Jeckson77/Front-End-skills**. Review third-party commands and permissions before running them.
 
-## Why use it?
+### **3. Practice on your own frontend projects**
 
-Agents don’t have great taste
+- **Build** a responsive landing page.
+- **Improve** hover states and transitions.
+- **Test** layouts on mobile screen sizes.
+- **Compare** animation timings and easing curves.
+- **Document** before-and-after UI improvements.
 
-I have seen plenty of times that agents don’t pick the right ingredients for an animation. An `ease-in` easing for an enter animation when it’s supposed to be `ease-out` ([here’s why](https://emilkowal.ski/ui/7-practical-animation-tips#4.-choose-the-right-easing)). Or they choose a solid border instead of a semi-transparent shadow for your UIs.
+## 🎯 Learning Goals
 
-All these small things compound and make your interface either amazing, or just... not that great.
+- Develop stronger **frontend engineering** fundamentals.
+- Create **accessible, responsive interfaces**.
+- Improve **animation quality and performance**.
+- Apply design guidance thoughtfully instead of adding effects everywhere.
+- Turn learning into **original projects and demonstrations**.
 
-As explained in [Agents with Taste](https://emilkowal.ski/ui/agents-with-taste), these skills list all the little mistakes agents can potentially make and explain how to fix them.
+## 🤝 Contributions
 
-This is your shortcut to great interfaces. A shortcut to stand out in a sea of slop.
+Suggestions, documentation improvements, and original examples are welcome. When contributing material from another project, **credit the original source** and respect its license.
 
-## Reference
+## 🙏 Credits & Attribution
 
-- **[emil-design-eng](https://aiforui.dev/skills/emil-design-eng)** — The main skill that consists of mostly animation, but also some design advice.
-- **[animate](https://aiforui.dev/skills/animate)** — Builds an animation from scratch while choosing the correct curve, duration, properties, and so on.
-- **[animate-expo](https://aiforui.dev/skills/animate-expo)** — The same bar, for React Native and Expo: gestures, sheets, haptics, screen transitions, and keeping motion off the JS thread.
-- **[review-animations](https://aiforui.dev/skills/review-animations)** — Review your animations in a strict way, based on my rules.
-- **[improve-animations](https://aiforui.dev/skills/improve-animations)** — Audit all the animations in your codebase and get prioritized, self-contained plans that any agent can execute.
-- **[find-animation-opportunities](https://aiforui.dev/skills/find-animation-opportunities)** — Search your UI for places that would genuinely benefit from motion, while also telling you what not to animate.
-- **[remove-animations](https://aiforui.dev/skills/remove-animations)** — The opposite of finding opportunities: remove the animations your app doesn't need, think of motion on keyboard shortcuts, fade-ins on every section, and delay on every tooltip in a group.
-- **[choreograph](https://aiforui.dev/skills/choreograph)** — Coordinate several elements that animate together: what leads, what follows, what runs in parallel, and what shouldn't move at all.
-- **[animation-performance](https://aiforui.dev/skills/animation-performance)** — Fix animations that drop frames. It includes lots of subtle issues that most agents miss.
-- **[animation-vocabulary](https://aiforui.dev/skills/animation-vocabulary)** — Get better animations from an AI by telling it exactly what you want by using the right words.
-- **[apple-design](https://aiforui.dev/skills/apple-design)** — Apple’s principles for interface design and fluid motion, distilled from their WWDC design talks and translated for the web.
-- **[gestures](https://aiforui.dev/skills/gestures)** — Build drag, swipe, and sheet interactions that track the finger 1:1, carry the speed of the release, and can be caught mid-animation.
-- **[pick-ui-library](https://aiforui.dev/skills/pick-ui-library)** — Have your agent pick the right library for the task based on libraries I use and trust, instead of letting AI hand-roll a toast component or install an abandoned package.
-- **[prototype](https://aiforui.dev/skills/prototype)** — Build multiple different versions of a UI piece you describe and go through them using a switcher.
-- **[mobile-native](https://aiforui.dev/skills/mobile-native)** — Make your web app feel native on a phone: sticky hover states, tap highlight flashes, the 100vh bug, inputs that zoom the page, laggy taps, safe areas, and the rest of the small fixes that separate a website from an app.
-- **[break-ui](https://aiforui.dev/skills/break-ui)** — Try to break the UI you built with worst-case data: long names, unusual emails, one-letter names, huge counts, empty lists, long labels.
-- **[learn-taste](https://aiforui.dev/skills/learn-taste)** — Run it at the end of a session. It collects every design correction you made, including the edits you made yourself, and turns each one into a rule with its reason in your `DESIGN.md`, so the next agent doesn’t make the same mistake.
-- **[ask-emil](https://aiforui.dev/skills/ask-emil)** — Not sure which skill to use? Describe your situation and it points you to the right skill, or the right sequence of them, from idea to shipped.
-- **[ask-sonner](https://aiforui.dev/skills/ask-sonner)** — Your guide to working with [Sonner](https://sonner.emilkowal.ski), my toast library. Contains setup, styling, recipes, and fixes for the most common issues.
+This repository's referenced skill collection and its design guidance originate from **[Emil Kowalski](https://github.com/emilkowalski)** and **[emilkowalski/skills](https://github.com/emilkowalski/skills)**.
+
+- **Original project:** https://github.com/emilkowalski/skills
+- **Original documentation:** https://aiforui.dev/skills
+- **Original author's website:** https://emilkowal.ski
+
+**Jeckson77** maintains this repository as a frontend learning/reference space. Original authorship is not implied. For licensing details, consult the original project and the license files associated with any reused material.
+
+---
+
+<div align="center">
+
+### **💡 Learn. Design. Build. Improve.**
+
+**Crafting better digital experiences, one interface at a time. 🇳🇦**
+
+[**Explore Jeckson77's GitHub**](https://github.com/Jeckson77)
+
+</div>
